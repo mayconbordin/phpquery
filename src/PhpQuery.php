@@ -35,7 +35,7 @@ function pq($arg1, $context = NULL) {
  * @author Tobiasz Cudnik <tobiasz.cudnik/gmail.com>
  * @package phpQuery
  */
-abstract class phpQuery {
+abstract class PhpQuery {
   /**
    * XXX: Workaround for mbstring problems
    *

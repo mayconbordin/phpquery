@@ -12,7 +12,7 @@ use PhpQuery\PhpQuery as phpQuery;
  * @author Tobiasz Cudnik <tobiasz.cudnik/gmail.com>
  * @package phpQuery
  */
-class DOMDocumentWrapper {
+class DomDocumentWrapper {
   /**
    * @var \DOMDocument
    */
